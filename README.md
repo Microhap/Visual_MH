@@ -1,5 +1,5 @@
 # Visual Microhap
-This repository contains the code and resources for Visual Microhap.
+This repository contains the code and resources for [Visual Microhap](http://forensic.yonsei.ac.kr/VisualMH/index.html).
 
 Visual Microhap is a web-based custom haplotype caller developed for the analysis of massively parallel sequencing (MPS) data.
 
