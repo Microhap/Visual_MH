@@ -1,5 +1,5 @@
 # Visual Microhap
-**Visual Microhap** is a web-based custom haplotype caller developed to analyze massively parallel sequencing data for microhaplotype markers. 
+**Visual Microhap** is a web-based custom haplotype caller developed to analyze next generation sequencing data for microhaplotype markers. 
 This repository contains the code and resources for [Visual Microhap](http://forensic.yonsei.ac.kr/VisualMH/index.html).
 
 
